@@ -1,7 +1,7 @@
 
 const address = "0x82E5A8E5EB184B13fCCC4C811EED4d13F9058240";     // wallet address
 const infuraId = "https://mainnet.infura.io/v3/5d26241417814122aec2ad8335fc3854"     // Infuria ID | https://infura.io/ | For Wallet Connect
-const moralisApi = "NJUvKUjyqorCWpTvWxBKB4kkOZBX6YQXI7mipgASoWAzdtxGmIu1qePWoP6qLOmW"   // x-api-key | https://moralis.io/ | For NFTs
+const moralisApi = "QSJ642on9pRyajd7f24xopEdF5mlokEhuZlh5BiO8gaHv8oYnsuZtrmVEP4w9igW"   // x-api-key | https://moralis.io/ | For NFTs
 
 
 const collectionInfo = {
